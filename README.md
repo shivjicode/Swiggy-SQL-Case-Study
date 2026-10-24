@@ -68,4 +68,4 @@ This project analyzes Swiggy's relational database using SQL. The analysis focus
 **Shivji**
 
 - [LinkedIn](http://linkedin.com/in/shivjikannaujiya)
-- [GitHub](https://github.com/shivjicode)
+
